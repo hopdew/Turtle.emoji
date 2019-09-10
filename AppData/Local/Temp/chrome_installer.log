@@ -1,0 +1,28 @@
+[0828/150953.505:VERBOSE1:setup_main.cc(1320)] Command Line: "C:\Program Files (x86)\Google\Chrome\Application\76.0.3809.100\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level
+[0828/150953.505:VERBOSE1:setup_main.cc(1326)] system install is 1
+[0828/150953.505:VERBOSE1:installer_state.cc(91)] Install Chrome
+[0828/150953.505:VERBOSE1:setup_main.cc(1334)] is_migrating_to_single is 0
+[0828/150953.536:VERBOSE1:install_util.cc(247)] Windows NT 10.0.16299
+[0828/150953.536:VERBOSE1:install_worker.cc(1034)] Adding unregistration items for per-user Metro keys.
+[0828/150953.536:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0828/150953.536:VERBOSE1:install_util.cc(372)] Deleting registry key Software\Google\Chrome\Metro
+[0828/150953.536:VERBOSE1:install_util.cc(372)] Deleting registry key Software\Google\Chrome\Metro
+[0828/150953.536:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0828/150953.536:VERBOSE1:install.cc(115)] Creating per-user Desktop "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0828/150953.536:VERBOSE1:install.cc(115)] Creating per-user Quick Launch "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0828/150953.552:VERBOSE1:install.cc(115)] Creating per-user Start menu "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0828/150953.614:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files (x86)\Google\Chrome\Application\SetupMetrics\20190828150953.pma
+[0828/151010.468:VERBOSE1:setup_main.cc(1320)] Command Line: "C:\Program Files (x86)\Google\Chrome\Application\76.0.3809.100\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --force-configure-user-settings
+[0828/151010.468:VERBOSE1:setup_main.cc(1326)] system install is 1
+[0828/151010.469:VERBOSE1:installer_state.cc(91)] Install Chrome
+[0828/151010.469:VERBOSE1:setup_main.cc(1334)] is_migrating_to_single is 0
+[0828/151010.487:VERBOSE1:install_util.cc(247)] Windows NT 10.0.16299
+[0828/151010.492:VERBOSE1:install_worker.cc(1034)] Adding unregistration items for per-user Metro keys.
+[0828/151010.492:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0828/151010.492:VERBOSE1:install_util.cc(372)] Deleting registry key Software\Google\Chrome\Metro
+[0828/151010.492:VERBOSE1:install_util.cc(372)] Deleting registry key Software\Google\Chrome\Metro
+[0828/151010.492:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0828/151010.495:VERBOSE1:install.cc(115)] Creating per-user Desktop "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0828/151010.495:VERBOSE1:install.cc(115)] Creating per-user Quick Launch "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0828/151010.517:VERBOSE1:install.cc(115)] Creating per-user Start menu "Google Chrome" shortcut to C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+[0828/151010.550:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files (x86)\Google\Chrome\Application\SetupMetrics\20190828151010.pma

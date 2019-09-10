@@ -1,0 +1,122 @@
+[2019-08-28 15:21:52:0474] Adobe ARM 1.824.34.1201 logging started.
+[2019-08-28 15:22:05:0566] Newer version ARM update is not available
+[2019-08-28 15:22:05:0571] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-08-28 15:22:05:0571] ProductName: Adobe Acrobat Reader DC
+[2019-08-28 15:22:05:0572] ProductVersion: 19.012.20040
+[2019-08-28 15:22:05:0572] ProductUACPatching: enabled
+[2019-08-28 15:22:05:0616] Using registered preference AUTO_ALL
+[2019-08-28 15:22:06:0909] MDOV
+[2019-08-28 15:22:06:0909]    Error Code: 1615
+[2019-08-28 15:22:06:0910] No files in Session, setting NO_UPDATES mode
+[2019-08-28 15:22:06:0916] Using registered preference AUTO_ALL
+[2019-08-28 15:22:08:0242] MDOV
+[2019-08-28 15:22:08:0242]    Error Code: 1615
+[2019-08-28 15:22:08:0244] No files in Session, setting NO_UPDATES mode
+[2019-08-28 15:22:08:0451] ARM returns ERROR_SUCCESS
+[2019-08-28 15:22:08:0451] Adobe ARM 1.824.34.1201 logging finished.
+
+
+
+[2019-08-29 15:17:37:0463] Adobe ARM 1.824.34.1201 logging started.
+[2019-08-29 15:17:37:0497] Too soon to check for arm update
+[2019-08-29 15:17:37:0498] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-08-29 15:17:37:0498] ProductName: Adobe Acrobat Reader DC
+[2019-08-29 15:17:37:0498] ProductVersion: 19.012.20040
+[2019-08-29 15:17:37:0498] ProductUACPatching: enabled
+[2019-08-29 15:17:37:0553] Using registered preference AUTO_ALL
+[2019-08-29 15:17:37:0553] Last check for updates not expired
+[2019-08-29 15:17:37:0553]    Error Code: 120300
+[2019-08-29 15:17:37:0554] Using registered preference AUTO_ALL
+[2019-08-29 15:17:37:0554] Last check for updates not expired
+[2019-08-29 15:17:37:0554]    Error Code: 120300
+[2019-08-29 15:17:37:0755] ARM returns ERROR_SUCCESS
+[2019-08-29 15:17:37:0755] Adobe ARM 1.824.34.1201 logging finished.
+
+
+
+[2019-08-30 15:17:39:0076] Adobe ARM 1.824.34.1201 logging started.
+[2019-08-30 15:17:39:0102] Too soon to check for arm update
+[2019-08-30 15:17:39:0103] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-08-30 15:17:39:0103] ProductName: Adobe Acrobat Reader DC
+[2019-08-30 15:17:39:0103] ProductVersion: 19.012.20040
+[2019-08-30 15:17:39:0103] ProductUACPatching: enabled
+[2019-08-30 15:17:39:0156] Using registered preference AUTO_ALL
+[2019-08-30 15:17:39:0156] Last check for updates not expired
+[2019-08-30 15:17:39:0156]    Error Code: 120300
+[2019-08-30 15:17:39:0157] Using registered preference AUTO_ALL
+[2019-08-30 15:17:39:0157] Last check for updates not expired
+[2019-08-30 15:17:39:0157]    Error Code: 120300
+[2019-08-30 15:17:39:0359] ARM returns ERROR_SUCCESS
+[2019-08-30 15:17:39:0359] Adobe ARM 1.824.34.1201 logging finished.
+
+
+
+[2019-09-03 15:16:54:0782] Adobe ARM 1.824.34.1201 logging started.
+[2019-09-03 15:17:04:0526] Newer version ARM update is not available
+[2019-09-03 15:17:04:0532] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-09-03 15:17:04:0532] ProductName: Adobe Acrobat Reader DC
+[2019-09-03 15:17:04:0532] ProductVersion: 19.012.20040
+[2019-09-03 15:17:04:0532] ProductUACPatching: enabled
+[2019-09-03 15:17:04:0578] Using registered preference AUTO_ALL
+[2019-09-03 15:17:05:0868] MDOV
+[2019-09-03 15:17:05:0868]    Error Code: 1615
+[2019-09-03 15:17:05:0869] No files in Session, setting NO_UPDATES mode
+[2019-09-03 15:17:05:0875] Using registered preference AUTO_ALL
+[2019-09-03 15:17:07:0162] MDOV
+[2019-09-03 15:17:07:0162]    Error Code: 1615
+[2019-09-03 15:17:07:0163] No files in Session, setting NO_UPDATES mode
+[2019-09-03 15:17:07:0370] ARM returns ERROR_SUCCESS
+[2019-09-03 15:17:07:0370] Adobe ARM 1.824.34.1201 logging finished.
+
+
+
+[2019-09-04 15:15:35:0712] Adobe ARM 1.824.34.1201 logging started.
+[2019-09-04 15:15:35:0771] Too soon to check for arm update
+[2019-09-04 15:15:35:0775] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-09-04 15:15:35:0775] ProductName: Adobe Acrobat Reader DC
+[2019-09-04 15:15:35:0775] ProductVersion: 19.012.20040
+[2019-09-04 15:15:35:0775] ProductUACPatching: enabled
+[2019-09-04 15:15:35:0829] Using registered preference AUTO_ALL
+[2019-09-04 15:15:35:0830] Last check for updates not expired
+[2019-09-04 15:15:35:0830]    Error Code: 120300
+[2019-09-04 15:15:35:0854] Using registered preference AUTO_ALL
+[2019-09-04 15:15:35:0855] Last check for updates not expired
+[2019-09-04 15:15:35:0855]    Error Code: 120300
+[2019-09-04 15:15:36:0057] ARM returns ERROR_SUCCESS
+[2019-09-04 15:15:36:0057] Adobe ARM 1.824.34.1201 logging finished.
+
+
+
+[2019-09-05 15:16:24:0010] Adobe ARM 1.824.34.1201 logging started.
+[2019-09-05 15:16:24:0043] Too soon to check for arm update
+[2019-09-05 15:16:24:0044] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-09-05 15:16:24:0044] ProductName: Adobe Acrobat Reader DC
+[2019-09-05 15:16:24:0044] ProductVersion: 19.012.20040
+[2019-09-05 15:16:24:0044] ProductUACPatching: enabled
+[2019-09-05 15:16:24:0124] Using registered preference AUTO_ALL
+[2019-09-05 15:16:24:0125] Last check for updates not expired
+[2019-09-05 15:16:24:0125]    Error Code: 120300
+[2019-09-05 15:16:24:0125] Using registered preference AUTO_ALL
+[2019-09-05 15:16:24:0125] Last check for updates not expired
+[2019-09-05 15:16:24:0125]    Error Code: 120300
+[2019-09-05 15:16:24:0328] ARM returns ERROR_SUCCESS
+[2019-09-05 15:16:24:0328] Adobe ARM 1.824.34.1201 logging finished.
+
+
+
+[2019-09-06 15:25:28:0211] Adobe ARM 1.824.34.1201 logging started.
+[2019-09-06 15:25:38:0708] Newer version ARM update is not available
+[2019-09-06 15:25:38:0714] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2019-09-06 15:25:38:0714] ProductName: Adobe Acrobat Reader DC
+[2019-09-06 15:25:38:0714] ProductVersion: 19.012.20040
+[2019-09-06 15:25:38:0714] ProductUACPatching: enabled
+[2019-09-06 15:25:38:0774] Using registered preference AUTO_ALL
+[2019-09-06 15:25:41:0189] MDOV
+[2019-09-06 15:25:41:0189]    Error Code: 1615
+[2019-09-06 15:25:41:0190] No files in Session, setting NO_UPDATES mode
+[2019-09-06 15:25:41:0195] Using registered preference AUTO_ALL
+[2019-09-06 15:25:46:0898] MDOV
+[2019-09-06 15:25:46:0898]    Error Code: 1615
+[2019-09-06 15:25:46:0899] No files in Session, setting NO_UPDATES mode
+[2019-09-06 15:25:47:0105] ARM returns ERROR_SUCCESS
+[2019-09-06 15:25:47:0105] Adobe ARM 1.824.34.1201 logging finished.
